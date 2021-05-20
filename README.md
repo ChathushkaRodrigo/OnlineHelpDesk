@@ -9,5 +9,5 @@
 2nd year OOP project
 
 
-#NOTE : "Config.properties" will be added soon
+#NOTE : "Config.properties" and other essential files are added
 #If you are adding your project files create a folder along with the function name and upload please
